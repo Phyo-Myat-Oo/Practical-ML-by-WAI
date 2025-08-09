@@ -3,7 +3,7 @@ import os
 import re
 
 # Define the path to the marks file from the root of the repository
-MARKS_FILE_PATH = "6_deep_learning/tf_best_practices/binary_classification/marks.txt"
+MARKS_FILE_PATH = "6_deep_learning/CNN/tf_best_practices/binary_classification/marks.txt"
 
 def get_mark():
     """Helper function to read the mark from the file."""
